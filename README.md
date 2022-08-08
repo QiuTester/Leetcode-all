@@ -26,6 +26,8 @@
 |||||  
 |||||
 ## 每日刷题
+| index |       title            | code           |  Difficulty   |
+| :--:  | :-------------------:  | :---:          |  :--:         |
 |1408|数组中的字符串匹配|[Python](https://github.com/QiuTester/Leetcode-all/blob/7dd07afa4212a3c5688ee6b2dab8fea807c9b882/1408.py)|Easy|
 |2285|道路的最大总重要性|[Python](https://github.com/QiuTester/Leetcode-all/blob/7dd07afa4212a3c5688ee6b2dab8fea807c9b882/2285.py)|Medium| 
 |剑指52|双链表第一个接点|[Python](https://github.com/QiuTester/Leetcode-all/blob/7dd07afa4212a3c5688ee6b2dab8fea807c9b882/%E5%89%91%E6%8C%8752.py)|Easy|   
