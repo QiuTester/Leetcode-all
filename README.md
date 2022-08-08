@@ -1,37 +1,35 @@
 # Leetcode-all
 
-## 目录
+## 数组和字符串
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
 |0035|搜索插入位置|[Python](https://github.com/QiuTester/Leetcode-all/blob/5f33fd142ffc9bebfda5a3e4953134e7545e7092/0035.py)|Easy|
 |0056|合并区间|[Python](https://github.com/QiuTester/Leetcode-all/blob/7dd07afa4212a3c5688ee6b2dab8fea807c9b882/0056.py)|Medium| 
 |0495|提莫攻击|[Python](https://github.com/QiuTester/Leetcode-all/blob/7dd07afa4212a3c5688ee6b2dab8fea807c9b882/0495.py)|Easy|   
-|0724|寻找数组的中心下标|[Python](https://github.com/QiuTester/Leetcode-all/blob/7dd07afa4212a3c5688ee6b2dab8fea807c9b882/0724.py)|Easy|   
-|1408|数组中的字符串匹配|[Python](https://github.com/QiuTester/Leetcode-all/blob/7dd07afa4212a3c5688ee6b2dab8fea807c9b882/1408.py)|Easy|   
-|1991|找到数组的中间位置|[Python](https://github.com/QiuTester/Leetcode-all/blob/7dd07afa4212a3c5688ee6b2dab8fea807c9b882/1991.py)|Easy|   
-|2285|道路的最大总重要性|[Python](https://github.com/QiuTester/Leetcode-all/blob/7dd07afa4212a3c5688ee6b2dab8fea807c9b882/2285.py)|Medium|   
+|0724|寻找数组的中心下标|[Python](https://github.com/QiuTester/Leetcode-all/blob/7dd07afa4212a3c5688ee6b2dab8fea807c9b882/0724.py)|Easy|      
+|1991|找到数组的中间位置|[Python](https://github.com/QiuTester/Leetcode-all/blob/7dd07afa4212a3c5688ee6b2dab8fea807c9b882/1991.py)|Easy|          
+|||||   
+|||||  
+||||| 
+|||||  
+|||||
+|||||  
+|||||   
+|||||  
+||||| 
+|||||  
+|||||
+|||||  
+|||||   
+|||||  
+||||| 
+|||||  
+|||||
+## 每日刷题
+|1408|数组中的字符串匹配|[Python](https://github.com/QiuTester/Leetcode-all/blob/7dd07afa4212a3c5688ee6b2dab8fea807c9b882/1408.py)|Easy|
+|2285|道路的最大总重要性|[Python](https://github.com/QiuTester/Leetcode-all/blob/7dd07afa4212a3c5688ee6b2dab8fea807c9b882/2285.py)|Medium| 
 |剑指52|双链表第一个接点|[Python](https://github.com/QiuTester/Leetcode-all/blob/7dd07afa4212a3c5688ee6b2dab8fea807c9b882/%E5%89%91%E6%8C%8752.py)|Easy|   
 |0636|函数的独占时间|[Python](https://github.com/QiuTester/Leetcode-all/blob/f2bd30f1ef107ac509795eded5aa5cc83ec857c5/0636.py)|Medium|  
-|||||   
-|||||  
-||||| 
-|||||  
-|||||
-|||||  
-|||||   
-|||||  
-||||| 
-|||||  
-|||||
-|||||  
-|||||   
-|||||  
-||||| 
-|||||  
-|||||
-|||||  
-|||||   
-|||||  
 ||||| 
 |||||  
 |||||  
