@@ -17,7 +17,7 @@
 |0028|实现strStr()(KMP)|[Python](https://github.com/QiuTester/Leetcode-all/blob/6dc0efd67ccccc31dd859e7e5804cfa3e02d66d8/0028.py)|Easy(x)|   
 |0344|反转字符串|[Python](https://github.com/QiuTester/Leetcode-all/blob/17026414323d4c51a57620e617f41b45e518dc7d/0344.py)|Easy|  
 |0561|数组拆分|[Python](https://github.com/QiuTester/Leetcode-all/blob/f58365b8aa941bb9136d7b80b4344f262522e84c/0561.py)|Easy| 
-|||||  
+|0167|两数之和II|[Python](https://github.com/QiuTester/Leetcode-all/blob/514844e163e2d42f6f4902d8632290cfcd6f63b1/0167.py)|Medium|  
 |||||
 |||||  
 |||||   
