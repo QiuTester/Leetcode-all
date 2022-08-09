@@ -15,7 +15,7 @@
 |0005|最长回文子串|[Python](https://github.com/QiuTester/Leetcode-all/blob/acd28af6fac547dc7cb7fec1a25e675d1e36bb87/0005.py)|Medium|
 |0151|颠倒字符串中的单词|[Python](https://github.com/QiuTester/Leetcode-all/blob/8d70649177891d92db6956e5adf9e8402388cc11/0151.py)|Medium|  
 |0028|实现strStr()(KMP)|[Python](https://github.com/QiuTester/Leetcode-all/blob/6dc0efd67ccccc31dd859e7e5804cfa3e02d66d8/0028.py)|Easy(x)|   
-|||||  
+|0344|反转字符串|[Python](https://github.com/QiuTester/Leetcode-all/blob/17026414323d4c51a57620e617f41b45e518dc7d/0344.py)|Easy|  
 ||||| 
 |||||  
 |||||
