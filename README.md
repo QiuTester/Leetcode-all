@@ -29,7 +29,7 @@
 ## 二分
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
-|0704|二分查找|[Python]()|Easy|  
+|0704|二分查找|[Python](https://github.com/QiuTester/Leetcode-all/blob/d527cdaa6b8f51e71e1ad9e5ca13ccf2c4ae3073/0704.py)|Easy|  
 ||||| 
 |||||  
 |||||
