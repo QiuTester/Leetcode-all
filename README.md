@@ -33,7 +33,7 @@
 |0069|x的平方根|[Python](https://github.com/QiuTester/Leetcode-all/blob/bf29f9c37039615f47475140a45b74359eed96f9/0069.py)|Easy| 
 |0374|猜数字大小|[Python](https://github.com/QiuTester/Leetcode-all/blob/41a4adc31725c739b7decc23200084febd8b95c0/0374.py)|Easy|  
 |0033|搜索旋转排列数组|[Python](https://github.com/QiuTester/Leetcode-all/blob/c6282ba639288a3a3027e736d570a181e2b51c63/0033.py)|Medium|
-|||||  
+|0278|第一个错误的版本|[Python](https://github.com/QiuTester/Leetcode-all/blob/e1fca2c872309d57b9dff04e6aead6add26ea1ba/0278.py)|Easy|  
 ||||| 
 |||||  
 |||||
