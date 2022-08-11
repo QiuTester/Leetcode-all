@@ -16,6 +16,6 @@ class Solution:
         left, right = 0, len(nums)-1
         while left < right:                            # nums[-1]=负无穷，开始一定是上坡，目标在于找到第一个下坡点
             mid = (left+right) >> 1                      
-            if nums[mid] < nums[mid+1]: left = mid + 1 # 仍然为上坡，继续向右找  
-            else: right = mid                          # 找到了下坡点，但要找到唯一的那一个点，故将当前此点包含在内再继续向左找
+            if nums[mid] < nums[mid+1]: left = mid + 1 # 当前点仍然为上坡，继续向右找  
+            else: right = mid                          # 找到了下坡点，但要找到唯一（第一个满足）的那一个点，故将当前点包含在内再继续向左找（最后返回唯一值left==right）
         return left
