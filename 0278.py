@@ -16,8 +16,8 @@
 class Solution:
     def firstBadVersion(self, n: int) -> int:
         left, right = 1, n 
-        while left < right:                     # 
+        while left < right:                           # 开始位置一定返回是False，目标在于找到第一个为True的下标 
             mid = (left+right) >> 1           
-            if isBadVersion(mid): right = mid
-            else: left = mid + 1
+            if not isBadVersion(mid): left = mid + 1  # 当前点仍然为False，继续向右找
+            else: right = mid                         # 当前点满足，但不一定是第一个True，保留当前点再继续向左找（最后会返回单一值left==right）
         return left
