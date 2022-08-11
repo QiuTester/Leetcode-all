@@ -35,7 +35,7 @@
 |0033|搜索旋转排列数组|[Python](https://github.com/QiuTester/Leetcode-all/blob/c6282ba639288a3a3027e736d570a181e2b51c63/0033.py)|Medium|
 |0278|第一个错误的版本|[Python](https://github.com/QiuTester/Leetcode-all/blob/e1fca2c872309d57b9dff04e6aead6add26ea1ba/0278.py)|Easy|  
 |0162|寻找峰值|[Python](https://github.com/QiuTester/Leetcode-all/blob/cb987c22770bc7a214408407c25589fd6ffc3280/0162.py)|Medium| 
-|||||  
+|0153|寻找旋转排序数组中的最小值|[Python](https://github.com/QiuTester/Leetcode-all/blob/943ddc25962d81724def611017d4e0cc2f3df510/0153.py)|Medium|  
 |||||
 |||||  
 ||||| 
