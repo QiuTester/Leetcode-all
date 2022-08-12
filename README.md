@@ -36,7 +36,7 @@
 |0278|第一个错误的版本|[Python](https://github.com/QiuTester/Leetcode-all/blob/e1fca2c872309d57b9dff04e6aead6add26ea1ba/0278.py)|Easy|  
 |0162|寻找峰值|[Python](https://github.com/QiuTester/Leetcode-all/blob/cb987c22770bc7a214408407c25589fd6ffc3280/0162.py)|Medium| 
 |0153|寻找旋转排序数组中的最小值|[Python](https://github.com/QiuTester/Leetcode-all/blob/943ddc25962d81724def611017d4e0cc2f3df510/0153.py)|Medium|  
-|||||
+|0034|在排序数组中查找元素的第一个和最后一个位置|[Python](https://github.com/QiuTester/Leetcode-all/blob/bbefd3af63fec1b89e3403424d6f7d55d2833d52/0034.py)|Medium|
 |||||  
 ||||| 
 |||||  
