@@ -54,7 +54,7 @@
 | index |       title            | code           |  Difficulty   |
 | :--:  | :-------------------:  | :---:          |  :--:         |
 |0050|Pow(x,n)|[Python](https://github.com/QiuTester/Leetcode-all/blob/307741117534f7bbe68584b0c6a3df34d85eb5ae/0050.py)|Medium| 
-|||||  
+|0065|不用加减乘除做加法|[C++](https://github.com/QiuTester/Leetcode-all/blob/e0357d75b0dbd5d72bcd44a06b51a86c901ea6b2/0065.cpp)|Easy|  
 |||||
 |||||  
 ||||| 
